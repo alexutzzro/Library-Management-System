@@ -1,0 +1,60 @@
+Titlu: Enigma Otiliei
+Autor: George Calinescu
+Tip: Roman clasic
+Locatie: Raftul A, Sectiunea Clasici
+Disponibila: 1
+
+Titlu: Morometii
+Autor: Marin Preda
+Tip: Roman
+Locatie: Raftul B, Sectiunea Romane Romanesti
+Disponibila: 1
+
+Titlu: Ultima noapte de dragoste, intaia noapte de razboi
+Autor: Camil Petrescu
+Tip: Roman clasic
+Locatie: Raftul A, Sectiunea Clasici
+Disponibila: 1
+
+Titlu: Rascoala
+Autor: Liviu Rebreanu
+Tip: Roman
+Locatie: Raftul B, Sectiunea Romane Romanesti
+Disponibila: 1
+
+Titlu: La Medeleni
+Autor: Ionel Teodorescu
+Tip: Roman
+Locatie: Raftul C, Sectiunea Romane Romanesti
+Disponibila: 1
+
+Titlu: Baltagul
+Autor: Mihail Sadoveanu
+Tip: Roman
+Locatie: Raftul A, Sectiunea Clasici
+Disponibila: 1
+
+Titlu: Ciuleandra
+Autor: Liviu Rebreanu
+Tip: Roman
+Locatie: Raftul B, Sectiunea Romane Romanesti
+Disponibila: 0
+
+Titlu: Enciclopedia Romaniei
+Autor: Editura Academica
+Tip: Enciclopedie
+Locatie: Raftul A, Sectiunea Enciclopedii
+Disponibila: 1
+
+Titlu: Monografia Cugirului
+Autor: Ing. Augustin Berian
+Tip: Monografie
+Locatie: Raftul M, Sectiunea Monografii
+Disponibila: 1
+
+Titlu: Ionel Frumosul din Cugir
+Autor: Popescu Ion
+Tip: Roman
+Locatie: Raft B
+Disponibila: 0
+

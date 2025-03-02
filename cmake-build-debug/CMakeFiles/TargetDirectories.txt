@@ -1,0 +1,3 @@
+/Users/alexutz/CLionProjects/ProiectCarti/cmake-build-debug/CMakeFiles/ProiectCarti.dir
+/Users/alexutz/CLionProjects/ProiectCarti/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexutz/CLionProjects/ProiectCarti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
